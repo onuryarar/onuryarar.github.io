@@ -9,7 +9,8 @@ description:      '<a href="http://https://tr.wikipedia.org/wiki/Yönetim_Biliş
 url:              https://onuryarar.github.io/
 disqus:
   shortname: onuryarar
-baseurl:          # the optional subpath of your site, e.g. "/blog"
+baseurl:       
+                  # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
@@ -17,7 +18,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Onur Yarar'
-  url:            https://fb.com/onurryarar
+  url:            https://github.com/onuryarar
 
 paginate:         5
 # paginate_path:    '/page:num'

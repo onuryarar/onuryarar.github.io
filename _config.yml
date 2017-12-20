@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Onur's Blog
 tagline:          '#MIS gibi bir öğrencinin not defterinden.'
 description:      '<a href="https://tr.wikipedia.org/wiki/Yönetim_Bilişim_Sistemleri" target="_blank">#MIS</a> gibi bir öğrencinin not defterinden.'
-url:              https://onuryarar.github.io/
+url:              https://onuryarar.github.io
 google_analytics: UA-111395248-1
 disqus:
   shortname: onuryarar

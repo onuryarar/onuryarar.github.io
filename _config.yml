@@ -20,6 +20,7 @@ baseurl:
 author:
   name:           'Onur Yarar'
   url:            https://github.com/onuryarar
+  email:          'onurr.yarar@hotmail.com'
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -29,6 +30,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Custom vars
 version:            3.4.1

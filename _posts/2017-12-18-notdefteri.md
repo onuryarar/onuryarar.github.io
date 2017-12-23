@@ -8,7 +8,6 @@ categories:
 
 tags:
   - C#
-  - WPF
   - Not Defteri
   
 excerpt_separator:  <!--more-->

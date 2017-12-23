@@ -8,7 +8,6 @@ categories:
   
 tags:
   - C#
-  - WPF
   - Adam Asmaca
   - Yapay Zeka
   

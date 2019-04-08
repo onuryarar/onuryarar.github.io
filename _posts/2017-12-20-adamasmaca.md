@@ -66,13 +66,13 @@ Bu modun ekranı da kullanıcı modu ile aynıdır fakat tahmini bilgisayar yapa
 ### Nasıl Oynanır?
 
 * Yapay zekanın sorulan kelimeyi bulma çabasını izlemek için **BΛŞLΛT** butonuna basın.
-* Biraz geriye yaslanıp ve çay, kahve, su veya herhangibir içeceği keyifle yudumlayarak yapay zekanın kelimeyi bulmak için nasıl uğraştığına şahit olabiliriz. Çünkü her tahminini canlı olarak izleyebiliyoruz.
+* Biraz geriye yaslanıp herhangibir içeceği keyifle yudumlayarak yapay zekanın kelimeyi bulmak için nasıl uğraştığına şahit olabiliriz. Çünkü her tahminini canlı olarak izleyebiliyoruz.
 * Ardından muhtemelen bu keyif, saniyeler içinde bitecek ve yapay zekanın kelimeyi bulduğuna şahit olacağız.
 
-Oyun bittiğinde alttaki pencere karşılayacak bizi. İçinde bize el sallayan gayet mutlu bir robot (altı üstü kelime bildin ne bu artizlik) ve altında kaç adet benzer kelimeden kaç yanlışla bildiğinin bilgileri yer alıyor.
+Oyun bittiğinde alttaki pencere karşılayacak bizi. İçinde bize el sallayan gayet mutlu bir robot ve altında kaç adet benzer kelimeden kaç yanlışla bildiğinin bilgileri yer alıyor.
 ![Görüntü](/screenshots/pcmode-2.png?raw=true "Oyun Sonu - Bilgisayar Modu")
 
-Yok bu kesmedi beni yeniden başlatayım da uğraşsın dursun ufaklık<abbr title="veya herhangibir hitap şekli :)">*</abbr> ben de keyifle izleyeyim derseniz: **"Yeniden Oyna"** butonuna bir click yeterli...
+Yok bu kesmedi beni yeniden başlatayım da uğraşsın dursun ufaklık* ben de keyifle izleyeyim derseniz: **"Yeniden Oyna"** butonuna bir click yeterli...
 
 <p class="message">
 Oyunun GitHub deposu: https://github.com/onuryarar/Adam-Asmaca
